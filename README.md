@@ -3,7 +3,7 @@
 </p>
 
 
-  <p align="center">An example NestJS typescript NodeJS API with Swagger OpenAPI documentation</p>
+  <p align="center">An example NestJS typescript NodeJS API with Swagger OpenAPI Specifications</p>
    
 
 ## Installation
